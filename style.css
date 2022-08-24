@@ -51,7 +51,9 @@ p {
   line-height: 1.7;
   font-weight: 400; }
 
-a,
+a{
+  color: white;
+},
 a:hover,
 a:focus {
   -webkit-transition-duration: 500ms;
